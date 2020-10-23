@@ -2,7 +2,7 @@
 
 Tam yığın geliştiriciyim ve çoğunlukla Html, CSS , Visual Studio , C# C++ kullanıyorum.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="Amonn-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amonn-dev&label=Views&color=blue&style=plastic" alt="Amonn-dev" /> </p>
 
 [![Amonn github bilgileri](https://github-readme-stats.vercel.app/api?username=Amonn-dev&show_icons=true)](https://github.com/Amonn-dev)
 
