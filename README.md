@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="Amonn-dev" /> </p>
+
 <h2 align="center">Welcome my profile 🌍</h2>
 <p align="center">
   <a href="https://open.spotify.com/user/uj32hgcfc4vsx5rbkicjkyqlo" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
