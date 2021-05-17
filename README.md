@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="Amonn-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amon-dev&label=Views&color=blue&style=plastic" alt="Amonn-dev" /> </p>
 
 <h2 align="center">Welcome my profile 🌍</h2>
 <p align="center">
