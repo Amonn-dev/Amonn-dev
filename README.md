@@ -1,6 +1,6 @@
 <h2 align="center">Welcome my profile 🌍</h2>
 <p align="center">
-  <a href="https://open.spotify.com/user/mreukeaqgw20zp7w1xg2mk6bm?si=FUnjatqhT_mXDwXAi-qdPw" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/uj32hgcfc4vsx5rbkicjkyqlo" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </a>
   <a href="https://www.instagram.com/amonnq/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/Amonn-dev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
